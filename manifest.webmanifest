@@ -1,0 +1,17 @@
+{
+  "id": "/tea_master/",
+  "name": "Il signore del tè",
+  "short_name": "Signore del tè",
+  "description": "Carta dei tè e delle tisane, con tempi, temperature e timer d'infusione.",
+  "lang": "it",
+  "start_url": "/tea_master/",
+  "scope": "/tea_master/",
+  "display": "standalone",
+  "background_color": "#ECEDE6",
+  "theme_color": "#ECEDE6",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
